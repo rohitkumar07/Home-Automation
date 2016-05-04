@@ -1,13 +1,5 @@
 /**
-	Team Id: 4
-	Author List: 
-		Rohit Kumar, 120050028
-		Rakesh Ranjan Nayak, 120050047
-		Nitin Chandrol, 120050035
-		Suman Sourabh, 120050031
-
 		File name: main.c
-		Team Name:  Automators
 		Theme : Home Automation
 		Functions: 
 			setup()
